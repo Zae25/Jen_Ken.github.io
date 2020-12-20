@@ -181,17 +181,17 @@ button {
 }
 
 .pilih #batu {
-    background: url("/player-batu.png") center center no-repeat;
+    background: url("player-batu.png") center center no-repeat;
     background-size: contain;
 }
 
 .pilih #gunting {
-    background: url("/player-gunting.png") center center no-repeat;
+    background: url("player-gunting.png") center center no-repeat;
     background-size: contain;
 }
 
 .pilih #kertas {
-    background: url("/player-kertas.png") center center no-repeat;
+    background: url("player-kertas.png") center center no-repeat;
     background-size: contain;
 }
 
